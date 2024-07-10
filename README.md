@@ -1,0 +1,2 @@
+-  # See <a href='https://raw.githack.com/SetayeshPasandideh-12/Simple-Blog/Straykids-Weblog/index.html'>Live Demo</a>
+-  # Also the idea od this pade in not mine and all the credit goes to <a hreft='https://straykidsworld.blog.ir/'>this</a> website! 
